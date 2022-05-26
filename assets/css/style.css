@@ -1,6 +1,7 @@
 body {
   background-color: #2C2B3D;
   margin: 0;
+  padding: 0;
 }
 
 .container {
@@ -49,6 +50,7 @@ h1 {
   color: #FFFFFF;
   font-size: 36px;
   line-height: 40px;
+  margin-top: 0;
 }
 
 section p {
